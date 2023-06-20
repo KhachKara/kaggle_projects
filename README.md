@@ -1,3 +1,3 @@
 # kaggle_projects
-Тут собраны учебные проекты по курсу UDEMY «Из грязи Kaggle-князи»  
+Тут собраны учебные проекты по курсу UDEMY «Из грязи в Kaggle-князи»  
 https://www.udemy.com/course/ittensive-python-machine-learning-zero2hero/
