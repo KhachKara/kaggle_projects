@@ -1,6 +1,7 @@
 # house-prices-advanced-regression-techniques
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
-Задание
+
+- Задание
 1. По индивидуальному заданию (можно использовать использовать датасеты с Kaggle https://www.kaggle.com/datasets?fileType=csv или взять любой датасет из PyCaret, ссылка на блокнот приведена ниже), используя виртуальную машину в облачной платформе Google Colaboratory, создать, обучить и сравнить модели машинного обучения в библиотеках scikit-learn (можно только случайный лес и градиентый бустинг), h2o-3 (веб интерфейс Flow, localhost 54321, сделать скриншоты в Word), AutoGluon, PyCaret (или LightGBM,  XGBoost,  CatBoost по отдельности).
 
 2. Провести прогнозирование ответа лучшей модели на новых данных.
