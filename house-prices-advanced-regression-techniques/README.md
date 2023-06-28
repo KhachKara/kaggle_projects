@@ -58,3 +58,6 @@
 # Визуализация
 
 ## Корреляция Пирсона
+
+# Распределение цены квартир
+- https://www.kaggle.com/code/gusthema/house-prices-prediction-using-tfdf
